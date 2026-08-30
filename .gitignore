@@ -1,0 +1,9 @@
+# macOS metadata
+.DS_Store
+
+# Local environment configuration
+.env
+
+# Local SQLite databases
+**/data/*.db
+**/db/*.db
